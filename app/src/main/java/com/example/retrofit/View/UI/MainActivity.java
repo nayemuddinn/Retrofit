@@ -1,8 +1,9 @@
-package com.example.retrofit;
+package com.example.retrofit.View.UI;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
+
+import com.example.retrofit.R;
 
 public class MainActivity extends AppCompatActivity {
 
